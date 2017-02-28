@@ -1,5 +1,5 @@
-# Machine Learning From First Principle
-Machine Learning From First Principle
+# Getting Started with TensorFlow
+This contains a collection of Tensorflow tutorials mainly written in Jupiter Notebooks. 
 
 1. Introduction 
 2. Regression Models
